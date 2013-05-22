@@ -19,4 +19,4 @@ There are far more accurate ways to receive and set time using NTP and PPS. But 
 
 
 
-This code was pulled from http://code.google.com/p/gpstime/
+This code was originally forked from http://code.google.com/p/gpstime/
